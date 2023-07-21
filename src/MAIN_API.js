@@ -1,0 +1,1 @@
+export const MAIN_URL= 'https://blog.zakirabd.com/public/api/v1';
